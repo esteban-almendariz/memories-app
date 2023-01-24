@@ -1,8 +1,8 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 
-import Avatar from "../../places/components/UIElement/Avatar";
-import Card from "../../places/components/UIElement/Card";
+import Avatar from "../../shared/components/UIElement/Avatar";
+import Card from "../../shared/components/UIElement/Card";
 import "./UserItem.css";
 
 const UserItem = (props) => {
